@@ -1,5 +1,5 @@
 {
-  "name": "share_node",
+  "name": "node-fswatcher",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
