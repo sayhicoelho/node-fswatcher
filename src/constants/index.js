@@ -1,0 +1,1 @@
+exports.BLOCKLIST_MESSAGES_FILENAME = 'db.json'
